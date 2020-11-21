@@ -20,6 +20,6 @@ Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from 
 - 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/) and [Go](https://golang.org/)
 - 💬 Ask me about anything [here](https://github.com/Bharat123rox/Bharat123rox/issues)
 
-[![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=Bharat123rox)](https://github.com/Bharat123rox/github-readme-stats)
+[![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=Bharat123rox&show_icons=true&theme=radical)](https://github.com/Bharat123rox/github-readme-stats)
 
 This was generated from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
