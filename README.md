@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Bharat!](https://github.com/Bharat123rox) 👋
 
 <!--
 **Bharat123rox/Bharat123rox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from India.
+
+- 🔭 I’m currently working on [Datasets](https://github.com/huggingface/datasets/) and [Transformer](https://github.com/huggingface/transformers/) architectures
+- 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/) and [Go](https://golang.org/)
+- 💬 Ask me about anything [here](https://github.com/Bharat123rox/Bharat123rox/issues)
+
+[![Bharat's github stats](https://github-readme-stats.vercel.app/api?username=Bharat123rox)](https://github.com/Bharat123rox/github-readme-stats)
+
+This was generated from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
