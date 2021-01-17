@@ -20,6 +20,13 @@ Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from 
 - 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/) and [Go](https://golang.org/)
 - 💬 Ask me about anything [here](https://github.com/Bharat123rox/Bharat123rox/issues)
 
+**Social:**
+
+<a href="https://twitter.com/BharatR123"> <img align="left" alt="Bharat Raghunathan  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
+<a href="https://www.linkedin.com/in/bharat-raghunathan/"> <img align="left" alt="Bharat's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
+<a href="https://open.spotify.com/user/bharatrox"> <img align="left" alt="Bharat's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /> </a>
+![](https://visitor-badge.glitch.me/badge?page_id=Bharat123rox.Bharat123rox)
+
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
