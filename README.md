@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from India.
 
-<img align="right" alt="ML Animation GIF" src="https://github.com/Bharat123rox/Bharat123rox/blob/main/assets/pictures/MLAnimation.gif" />
-
 - 🔭 I’m currently working on [Datasets](https://github.com/huggingface/datasets/) and [Transformer](https://github.com/huggingface/transformers/) architectures
 - 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/) and [Go](https://golang.org/)
 - 💬 Ask me about anything [here](https://github.com/Bharat123rox/Bharat123rox/issues)
+
+<img align="right" alt="Knowledge Graph NLP" src="https://miro.medium.com/max/724/1*6rWaYPYOc7MDefBQQKdfUw.png" />
 
 **Social:**
 
