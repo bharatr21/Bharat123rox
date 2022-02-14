@@ -20,7 +20,7 @@ Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from 
 - 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/) and [Go](https://golang.org/)
 - 💬 Ask me about anything [here](https://github.com/Bharat123rox/Bharat123rox/issues)
 
-<img align="right" alt="Knowledge Graph NLP" src="https://miro.medium.com/max/724/1*6rWaYPYOc7MDefBQQKdfUw.png" />
+<img align="right" alt="Knowledge Graph NLP" src="https://miro.medium.com/max/850/1*6rWaYPYOc7MDefBQQKdfUw.png" />
 
 **Social:**
 
