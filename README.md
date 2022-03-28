@@ -24,9 +24,9 @@ Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from 
 
 **Social:**
 
-<a href="https://twitter.com/BharatR123"> <img align="left" alt="Bharat Raghunathan  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
-<a href="https://www.linkedin.com/in/bharat-raghunathan/"> <img align="left" alt="Bharat's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
-<a href="https://open.spotify.com/user/bharatrox"> <img align="left" alt="Bharat's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /> </a>
+<a href="https://twitter.com/BharatR123"> <img align="left" alt="Bharat Raghunathan  | Twitter" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/twitter.svg" /> </a>
+<a href="https://www.linkedin.com/in/bharat-raghunathan/"> <img align="left" alt="Bharat's LinkedIn" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/linkedin.svg" /> </a>
+<a href="https://open.spotify.com/user/bharatrox"> <img align="left" alt="Bharat's Spotify" width="22px" src="https://github.com/peterthehan/peterthehan/blob/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/spotify.svg" /> </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=Bharat123rox.Bharat123rox)
 
 **Languages and Tools:**
