@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from India.
 
 - 🔭 I’m currently working on [Datasets](https://github.com/huggingface/datasets/) and [Transformer](https://github.com/huggingface/transformers/) architectures
-- 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/) and [Go](https://golang.org/)
+- 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/), [TensorFlow](https://github.com/tensorflow/tensorflow) and the [FastAI Course](https://course.fast.ai/)
 - 💬 Ask me about anything [here](https://github.com/Bharat123rox/Bharat123rox/issues)
 
 <img align="right" alt="Knowledge Graph NLP" src="https://miro.medium.com/max/700/1*6rWaYPYOc7MDefBQQKdfUw.png" />
