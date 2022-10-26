@@ -20,6 +20,10 @@ Hi, I'm Bharat, an aspiring Data Scientist and Machine Learning Researcher from 
 - 🌱 I’m currently learning Data Science, Machine Learning Techniques, [PyTorch](http://github.com/pytorch/pytorch/), [TensorFlow](https://github.com/tensorflow/tensorflow) and the [FastAI Course](https://course.fast.ai/)
 - 💬 Ask me about anything [here](https://github.com/Bharat123rox/Bharat123rox/issues)
 
+I'm a contributor to [HacktoberFest 2022](https://hacktoberfest.com/)
+[![@bharatr's Holopin board](https://holopin.me/bharatr)](https://holopin.io/@bharatr)
+
+
 <img align="right" alt="Knowledge Graph NLP" src="https://miro.medium.com/max/700/1*6rWaYPYOc7MDefBQQKdfUw.png" />
 
 **Social:**
